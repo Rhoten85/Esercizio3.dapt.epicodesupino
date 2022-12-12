@@ -1,8 +1,8 @@
 # Esercizio3.dapt.epicodesupino
 
-Nel creare i dataset in CSV, ho riscontrato una serie di difficoltà inerenti all'interruzione di riga, che mi ha portato alle
-seguenti deduzi qui elencate, per Excel e Google Sheet ho trascritto il risultato determinato dalla modalità di apertura/importazione del file, 
-dove NO sta ad indicare che non riconosce l'interruzione di riga e SI dove il software la riconosce. 
+Nel creare i dataset in CSV, per l'esercizio 2, ho riscontrato una serie di difficoltà inerenti all'interruzione di riga, che mi ha portato alle
+seguenti deduzioni sotto elencate, per Excel e Google Sheet ho trascritto il risultato determinato dalla modalità di apertura/importazione del file, 
+dove NO sta ad indicare che non riconosce l'interruzione di riga e SI dove il software la riconosce, nelle modalità Importa Dati o Doppio click sul file per Excel, e nelle modalità Apri con upload da browser o Importa di Google Sheet con upload da browser.
 
 
 Dataset 1, separatore [,]: 
