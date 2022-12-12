@@ -1,0 +1,13 @@
+﻿Prodotto,Materiale,Spessore,Lunghezza,Pieghe,Matrice,Punzone,Stazioni
+P0430,Ferro,2,2000,,12,175,2
+P0288,Acciaio,4,1200,3,null,117,1
+P0432,Ferro,"0,8",500,6,8,175,1
+P0435,"Ferro
+Acciaio",3,1330,1,16,"145'Speciale'",1
+P0530,Alluminio,2,700,1,12,175,1
+P0470,Ferro,2,3000,4,12,97,1
+P0245,Alluminio,"1,5",200,8,12,175,3
+P0113,Acciaio,5,1740,5,40,175,3
+"P0439 ""New""",,6,490,4,50,205,2
+P0758,"Ferro
+Acciaio",3,2800,2,22,175,2  
